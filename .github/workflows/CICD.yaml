@@ -1,6 +1,7 @@
 name: CI/CD
 
 on:push
+
 jobs:
   build:
     name: Building Image
